@@ -96,11 +96,11 @@ document.addEventListener("DOMContentLoaded", function () {
  *  Add to Calendar
   ======================================================= */
 const event = {
-    title: "Jemputan Kenduri Kahwin Fawwaz & Aina",
+    title: "Acara Wedding",
     startDate: "20241211T033000Z", // YYYYMMDDTHHmmssZ (UTC)
-    endDate: "20251211T090000Z",
-    location: "1595 Lorong Muhibbah 16, Kampung Tersusun Muhibbah Batu 33, Temoh Perak, Malaysia",
-    description: "Kami menjemput tuan/puan hadir ke majlis perkahwinan anakanda kami.",
+    endDate: "20251209T090000Z",
+    location: "Pantai Suluban St No.6, Pecatu",
+    description: "Resepsi.",
 };
 
 // Function to generate Google Calendar URL
